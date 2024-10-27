@@ -10,7 +10,7 @@
 
 ### Database
 - Oracle
-- -MySQL
+- MySQL
 
 ### 자료구조
 
