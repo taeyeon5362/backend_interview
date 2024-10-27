@@ -1,2 +1,17 @@
 # backend_interview
-백엔드 기술 면접 준비 리포지토리
+
+
+### JAVA
+- Spring
+- 객체지향
+
+### Python
+- Django
+
+### Database
+- Oracle
+- -MySQL
+
+### 자료구조
+
+### 알고리즘
