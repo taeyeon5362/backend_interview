@@ -1,7 +1,7 @@
 # backend_interview
 
 
-### JAVA
+### [JAVA](https://github.com/taeyeon5362/backend_interview/tree/main/JAVA)
 - Spring
 - 객체지향
 
