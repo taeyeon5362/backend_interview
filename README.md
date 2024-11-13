@@ -8,7 +8,7 @@
 ### Python
 - Django
 
-### Database
+### [Database](https://github.com/taeyeon5362/backend_interview/tree/main/Database)
 - Oracle
 - MySQL
 
